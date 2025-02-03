@@ -19,8 +19,7 @@
 </p>
 <h4>Skills and Tools: </h4>
 <p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt=html5 width="60" height="60"/> 
-<img style="margin: auto;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt=css width="60" height="60"/> 
+
 <img style="margin: auto;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt=ReactJs width="60" height="60"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt=springboot width="60" height="60"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" alt=maven width="60" height="60"/> 
